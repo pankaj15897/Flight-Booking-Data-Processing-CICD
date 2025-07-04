@@ -79,7 +79,7 @@ with DAG(
         task_id="run_spark_job_on_dataproc_serverless",
         batch=batch_details,
         batch_id=batch_id,
-        project_id="mythic-aloe-457912-d5",
+        project_id="euphoric-fusion-462011-r4",
         region="us-central1",
         gcp_conn_id="google_cloud_default",
     )
